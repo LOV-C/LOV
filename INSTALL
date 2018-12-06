@@ -1,0 +1,9 @@
+Building LOV
+
+See doc/readme-qt.rst for instructions on building LOV QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LOV.
+
+See doc/build-*.txt for instructions on building LOVd,
+the intended-for-services, no-graphical-interface, reference
+implementation of LOV.
